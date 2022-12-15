@@ -1,4 +1,5 @@
-- 👋 Oi tudo bem? meu nome é Gabriel!
+##Ola tudo bem? Eu sou o Gabriel👋
+
 - 👀 Estou interessado na area de engenharia de dados
 - 🌱 Atualmente estou aprendendo as linguagens python, C# end C++
 - 💞️ Eu busco atualmente um estagio ou ser junior na parte back-office
