@@ -1,4 +1,4 @@
-##Ola tudo bem? Eu sou o Gabriel👋
+## Olá, tudo bem? Eu sou o Gabriel. 👋
 
 - 👀 Estou interessado na area de engenharia de dados
 - 🌱 Atualmente estou aprendendo as linguagens python, C# end C++
