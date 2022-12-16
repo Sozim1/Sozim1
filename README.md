@@ -5,3 +5,4 @@
 - 💞️ Eu busco atualmente um estagio ou ser junior na parte back-office
 - 📫 Me mande um ola gabrielperus2009@gmail.com // (11) 95221-1682
 
+!https://github.com/Sozim1/Cubic.git
