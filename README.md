@@ -1,8 +1,4 @@
-## Olá, tudo bem? Eu sou o Gabriel. 👋
+## Olá, tudo bem?👋
 
-- 👀 Estou interessado na area de engenharia de dados e automação
-- 🌱 Atualmente estou aprendendo as linguagens python, C# e javascript 
-- 💞️ Eu busco atualmente um estagio ou ser junior na area de dados
-- 📫 Caso queira me mandar um Oi, gabrielperus2009@gmail.com // (11) 95221-1682
-
+Eu sou Gabriel, um entusiasta de engenharia de dados e automação. Estou investindo meu tempo para aprimorar minhas habilidades nas linguagens Python, C# e JavaScript. Atualmente, busco uma oportunidade como estagiário ou junior na área de dados. Ficarei feliz em conversar, sinta-se à vontade para me enviar uma mensagem no meu e-mail gabrielperus2009@gmail.com ou me ligar no (11) 95221-1682.
 
