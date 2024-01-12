@@ -7,8 +7,6 @@
   </a>
   
 </div>
-    <div align="center">
-<!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
       </div>
 <div>
 <h2 align="center">  ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~  </h2>
@@ -51,7 +49,7 @@ Eu tambem sou otimo em criar tamplates e organizar planilhas, fiquei 1 dia intei
 <br>
 <h2 align="center">            ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ </h2>
   <div align="center">
-<img src="https://media.giphy.com/media/QKFrBz4cLs6IM/giphy.gif" align="right" width="273.5px" height="208.5px">
+<img src="https://media.giphy.com/media/QKFrBz4cLs6IM/giphy.gif" align="right" width="203.5px" height="168.5px">
   </div>
 <br>
 <p align="center">Caso queira tirar alguma duvida ou ate mesmo me pagar um cafe <br>
