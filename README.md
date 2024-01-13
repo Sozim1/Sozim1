@@ -22,7 +22,7 @@
 <b>Loves:</b> Praia, livros e animais
 </li>
 <li>
-<b>Gender:</b> ele/deles
+<b>Gender:</b> ele/dele
 </li>
 <li>
 <b>Hobbys:</b> Segurança da informação, Servidores em Nuvem, tecnologia 
